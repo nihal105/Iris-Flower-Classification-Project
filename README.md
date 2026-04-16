@@ -1,6 +1,5 @@
 # Iris-Flower-Classification-Project
 
-![Iris Dataset](iris.png)
 
 ## 📌 Overview
 
